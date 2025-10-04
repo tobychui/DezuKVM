@@ -31,3 +31,5 @@ go.work.sum
 # .idea/
 # .vscode/
 /remdeskd/.vscode
+usbkvm-app/cert.pem
+usbkvm-app/key.pem
