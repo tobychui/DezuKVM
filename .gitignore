@@ -33,3 +33,7 @@ go.work.sum
 /remdeskd/.vscode
 usbkvm-app/cert.pem
 usbkvm-app/key.pem
+/dezukvmd/.vscode
+dezukvmd/config/uuid.cfg
+dezukvmd/config/usbkvm.json
+dezukvmd/dezukvmd
