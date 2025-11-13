@@ -2,7 +2,7 @@
 
 A USB-KVM application that runs on your laptop / PC that provide an interface for using the USB-KVM device.
 
-**This is the off-grid version of DezuKVM and only provide a subset of features that the full DezuKVM IP-KVM has to offer. This is for local debugging or testing for USB-KVM hardware only.  **
+**This is the off-grid version of DezuKVM and only provide a subset of features that the full DezuKVM IP-KVM has to offer. This is for local debugging or testing for USB-KVM hardware only.**
 
 ## Hosting
 
